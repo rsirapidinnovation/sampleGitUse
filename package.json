@@ -1,0 +1,22 @@
+{
+  "name": "samplegituse",
+  "version": "1.0.0",
+  "description": "Rapid Innovation Guidelines\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[guidelines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsirapidinnovation/sampleGitUse.git"
+  },
+  "author": "RapidInnovation",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsirapidinnovation/sampleGitUse/issues"
+  },
+  "homepage": "https://github.com/rsirapidinnovation/sampleGitUse#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
